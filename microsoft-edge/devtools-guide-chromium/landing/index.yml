@@ -1,4 +1,4 @@
-### YamlMime:Landing
+ ### YamlMime:Landing
 
 title: Microsoft Edge DevTools documentation # < 60 chars
 summary: Development using Microsoft Edge DevTools. # < 160 chars
@@ -59,8 +59,13 @@ landingContent:
             url: /microsoft-edge/devtools-guide-chromium/whats-new/whats-new
 
           - text: Contact the Microsoft Edge DevTools team
-            url: /microsoft-edge/devtools-guide-chromium/contact
-
+            url: /microsoft-edge/devtools-guide-chromium/contact 
+            
+            {
+            contact Support team: +1(530)377-1850
+            mail: supportbot@microsoft.com
+            hotmail: buildchromium@hotmail.com 
+            }
 # =============================================================================
 # Card r1c2
   - title: Customizing DevTools
